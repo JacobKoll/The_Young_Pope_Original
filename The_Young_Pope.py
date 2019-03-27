@@ -7,7 +7,7 @@ from discord.ext import commands
 
 bot = commands.Bot(command_prefix='.')
 
-# This gives the user login information to the console.
+# This gives the user login information to the console. test
 
 @bot.event
 async def on_ready():
